@@ -6,11 +6,11 @@ body {
 }
 
 #titulo {
-  color: #c70039; /* cor 1 */
+  color: #c70039; 
 }
 
 .subtitulo {
-  color: #2e86de; /* cor 2 */
+  color: #2e86de; 
   font-family: 'Georgia', serif;
 }
 
@@ -26,13 +26,13 @@ body {
 
 .menu a {
   text-decoration: none;
-  color: #117a65; /* cor 3 */
+  color: #117a65; 
   font-weight: bold;
   font-family: 'Verdana', sans-serif;
 }
 
 .menu a:hover {
-  color: #ff9900; /* cor 4 - pseudo-classe */
+  color: #ff9900; 
 }
 
 img {
